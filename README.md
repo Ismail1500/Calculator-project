@@ -7,7 +7,7 @@ Welcome to the Calculator project! This is a simple calculator web application b
 
 ## Demo
 
-Check out the live demo of the calculator: [Calculator Demo](https://your-username.github.io/calculator-project/)
+Check out the live demo of the calculator: [Calculator Demo](https://ismail1500.github.io/Calculator-project/)
 
 ## Features
 
