@@ -1,6 +1,7 @@
 # Calculator Project
+<img width="436" alt="Screenshot 2023-08-20 143838" src="https://github.com/Ismail1500/Calculator/assets/90867563/e4ff46f5-912c-45ed-a2fa-da5ea045ad1f">
 
-![Calculator Preview](calculator_preview.png)
+
 
 Welcome to the Calculator project! This is a simple calculator web application built using HTML and CSS. It allows users to perform basic arithmetic operations right in their web browser.
 
@@ -22,3 +23,4 @@ To get a copy of the project up and running on your local machine, follow these 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/calculator-project.git
+
